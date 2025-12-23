@@ -10,13 +10,20 @@
     "slicemachine": "start-slicemachine"
   },
   "dependencies": {
+    "@gsap/react": "^2.1.2",
     "@prismicio/client": "^7.21.1",
     "@prismicio/next": "^2.0.2",
     "@prismicio/react": "^3.2.2",
+    "@react-three/drei": "^10.7.7",
+    "@react-three/fiber": "^9.4.2",
+    "@types/three": "^0.182.0",
     "clsx": "^2.1.1",
+    "gsap": "^3.14.2",
+    "leva": "^0.10.1",
     "next": "15.4.8",
     "react": "19.1.0",
-    "react-dom": "19.1.0"
+    "react-dom": "19.1.0",
+    "three": "^0.182.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
