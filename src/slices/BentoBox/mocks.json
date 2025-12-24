@@ -1,0 +1,78 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Laugh"
+						}
+					}
+				]
+			},
+			"items": {
+				"__TYPE__": "GroupContentType",
+				"value": [
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"size",
+								{
+									"__TYPE__": "FieldContent",
+									"value": "Medium",
+									"type": "Select"
+								}
+							],
+							[
+								"image",
+								{
+									"origin": {
+										"id": "main",
+										"url": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6",
+										"width": 3212,
+										"height": 3880
+									},
+									"url": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6",
+									"width": 3212,
+									"height": 3880,
+									"edit": {
+										"zoom": 1,
+										"crop": {
+											"x": 0,
+											"y": 0
+										},
+										"background": "transparent"
+									},
+									"alt": "new",
+									"credits": null,
+									"__TYPE__": "ImageContent",
+									"thumbnails": {}
+								}
+							],
+							[
+								"text",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Ea cupidatat ad consectetur adipisicing nulla exercitation cupidatat non laboris dolor ut aliqua."
+											}
+										}
+									]
+								}
+							]
+						]
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
